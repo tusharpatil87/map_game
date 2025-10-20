@@ -3,6 +3,10 @@ Indian State / Place Guessing Game
 
 A small interactive geography quiz built with Streamlit. The app highlights a location on a map and asks the player to choose the correct Indian state/place from multiple choices.
 
+Indian State / Place Guessing Game App link:
+=================================
+https://tush-mapgame.streamlit.app/
+
 Contents
 --------
 - `app.py` - Streamlit application (main entrypoint)
@@ -70,3 +74,4 @@ Optional suggestions
 License
 -------
 This is provided as-is for learning and experimentation.
+
